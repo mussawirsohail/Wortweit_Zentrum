@@ -118,24 +118,6 @@ export default function ContactPage() {
                       <p className="text-xs text-muted-light mt-0.5">We'll respond within 24 hours</p>
                     </div>
                   </div>
-
-                  <div className="flex gap-4">
-                    <div className="flex-shrink-0">
-                      <div className="w-12 h-12 rounded-lg bg-accent-light flex items-center justify-center text-accent">
-                        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
-                        </svg>
-                      </div>
-                    </div>
-                    <div>
-                      <h3 className="text-sm font-medium text-foreground mb-1">Visit Us</h3>
-                      <p className="text-sm text-muted">
-                        123 Education Street<br />
-                        Learning City, LC 12345
-                      </p>
-                    </div>
-                  </div>
                 </div>
 
                 <div>

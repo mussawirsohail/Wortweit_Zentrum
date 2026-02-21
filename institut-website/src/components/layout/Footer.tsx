@@ -45,8 +45,8 @@ const Footer = () => {
             <div>
               <h4 className="text-xs font-medium text-muted uppercase tracking-wider mb-4">Contact</h4>
               <address className="not-italic space-y-2">
-                <p className="text-sm text-muted">123 Education Street</p>
-                <p className="text-sm text-muted">Learning City, LC 12345</p>
+                {/* <p className="text-sm text-muted">123 Education Street</p>
+                <p className="text-sm text-muted">Learning City, LC 12345</p> */}
                 <p className="text-sm text-muted mt-3">
                   <a href="mailto:wortweitzentrum@gmail.com" className="hover:text-foreground transition-colors">wortweitzentrum@gmail.com</a>
                 </p>
